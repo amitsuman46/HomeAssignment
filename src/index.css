@@ -1,0 +1,7 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.MuiSelect-select {
+  border-right: 26px solid white;
+}
